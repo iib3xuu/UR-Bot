@@ -50,8 +50,8 @@ UR is your go-to solution for managing Discord servers with ease. It combines ad
 3. Create a `config.json` file in the root directory:
    ```json
    {
-       "token": "YOUR_DISCORD_BOT_TOKEN",
-       "prefix": "!"
+       "token": "TOKEN",
+       "prefix": "ur!"
    }
    ```
 
@@ -59,29 +59,7 @@ UR is your go-to solution for managing Discord servers with ease. It combines ad
    ```bash
    python bot.py
    ```
-
----
-
-## **⚙️ Commands Overview**  
-
-### Moderation  
-- `!kick` - Kick a member from the server.  
-- `!ban` - Ban a member.  
-- `!mute` - Mute a user.  
-- `!unmute` - Unmute a user.  
-
-### Economy  
-- `!balance` - Check your current balance.  
-- `!daily` - Claim daily rewards.  
-- `!work` - Earn coins by working.  
-- `!gamble` - Bet your coins for a chance to win more.  
-- `!leaderboard` - See the richest users.  
-
-### Utility  
-- `!time` - Display the current UTC time.  
-- `!roles` - List all roles in the server.  
-- `!randommember` - Pick a random server member.  
-
+   
 ---
 
 ## **🌐 Links**  
