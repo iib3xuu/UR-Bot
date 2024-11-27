@@ -11,13 +11,7 @@ UR is your go-to solution for managing Discord servers with ease. It combines ad
 - Interactive economy commands:  
   - Earn coins with `!daily` and `!work`.  
   - Spend and transfer coins with `!gamble` and `!transfer`.  
-  - Show off with the `!leaderboard`.  
-
-### Giveaways  
-- Host interactive giveaways with ease.  
-
-### Ticket System  
-- Manage support requests efficiently with a dedicated ticket panel.  
+  - Show off with the `!leaderboard`.   
 
 ### Server Stats & Insights  
 - Track server activity, growth, and member stats.  
