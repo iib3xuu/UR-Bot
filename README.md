@@ -9,9 +9,9 @@ UR is your go-to solution for managing Discord servers with ease. It combines ad
 
 ### Economy  
 - Interactive economy commands:  
-  - Earn coins with `!daily` and `!work`.  
-  - Spend and transfer coins with `!gamble` and `!transfer`.  
-  - Show off with the `!leaderboard`.   
+  - Earn coins with `ur!daily` and `ur!work`.  
+  - Spend and transfer coins with `ur!gamble` and `ur!transfer`.  
+  - Show off with the `ur!leaderboard`.   
 
 ### Server Stats & Insights  
 - Track server activity, growth, and member stats.  
